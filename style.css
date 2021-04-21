@@ -4,3 +4,8 @@ background-position: center;
 background-repeat: no-repeat;
 background-size: cover;
 }
+.mainTitle {
+   text-align: center;
+   padding-top: 10px;
+   color: red;
+}
